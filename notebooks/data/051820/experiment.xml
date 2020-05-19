@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> 
+<Experiment>
+   <Id>23ace1210eb64d5fb49bcadb480597a9</Id>
+   <Name>Quantification-TaqMan</Name>
+   <RunState>STOPPED</RunState>
+   <FinalAnalysisCompleted>false</FinalAnalysisCompleted>
+   <CreatedTime>1425692103129</CreatedTime>
+   <ModifiedTime>1589868056000</ModifiedTime>
+   <RunStartTime>1589868062509</RunStartTime>
+   <RunEndTime>1589872576216</RunEndTime>
+   <PreReadState>INIT</PreReadState>
+   <FileName>/storage/emulated/0/Android/data/com.lifetech.appletini/cache/temporary_execution_folder/running.edt</FileName>
+   <Label>ruo</Label>
+   <Type>
+      <Id>Std</Id>
+      <Name>Standard Curve</Name>
+      <Description>Use standards to determine the absolute quantity of target nucleic acid sequence in samples.</Description>
+      <ResultPersisterName>scAnalysisResultPersister</ResultPersisterName>
+      <ContributedResultPersisterNames>mcAnalysisResultPersister</ContributedResultPersisterNames>
+      <Chemistry>
+         <Name>TaqMan® Reagents</Name>
+         <Description>The PCR reactions contain primers designed to amplify the target sequence and a TaqMan® probe designed to detect amplification of the target sequence.</Description>
+         <ID>TAQMAN</ID>
+      </Chemistry>
+      <Chemistry>
+         <Name>SYBR® Green Reagents</Name>
+         <Description>The PCR reactions contain primers designed to amplify the target sequence and SYBR® Green I dye to detect double-stranded DNA.</Description>
+         <ID>SYBR_GREEN</ID>
+      </Chemistry>
+      <Chemistry>
+         <Name>Other</Name>
+         <Description>The PCR reactions contain primers to designed to amplify the target sequence and other reagents to detect amplification.</Description>
+         <ID>OTHER</ID>
+      </Chemistry>
+   </Type>
+   <Samples class="java.util.ArrayList">
+      <Sample>
+         <Name>SCV2 negative</Name>
+         <Color>-2614432</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>SCV2 postive</Name>
+         <Color>-7461718</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>SCV2 F</Name>
+         <Color>-13022805</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>SCV2 G</Name>
+         <Color>-14776091</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>phi6 negative</Name>
+         <Color>-16732991</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>phi6 positive</Name>
+         <Color>-16742021</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>phi6 positive power microbiome</Name>
+         <Color>-12345273</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>phi6 F</Name>
+         <Color>-8604862</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+      <Sample>
+         <Name>phi6 G</Name>
+         <Color>-4142541</Color>
+         <Concentration>1.0</Concentration>
+         <CustomProperties/>
+      </Sample>
+   </Samples>
+   <Detectors class="java.util.ArrayList">
+      <Detector>
+         <Name>SCV2 N gene</Name>
+         <Reporter>FAM</Reporter>
+         <Quencher>None</Quencher>
+         <Color>-2614432</Color>
+         <ProbePrimerMixFactor>20.0</ProbePrimerMixFactor>
+         <UMMFactor>2.0</UMMFactor>
+         <ReverseMixFactor>125.0</ReverseMixFactor>
+         <TaqmanProbeInitialConcentration>20.0</TaqmanProbeInitialConcentration>
+         <TaqmanProbeFinalQuantity>900.0</TaqmanProbeFinalQuantity>
+         <TaqmanProbeInitialConcentrationUnits>##IDetector.PICOMOLES</TaqmanProbeInitialConcentrationUnits>
+         <ForwardPrimerFinalQuantity>900.0</ForwardPrimerFinalQuantity>
+         <ForwardPrimerInitialConcentration>20.0</ForwardPrimerInitialConcentration>
+         <ForwardPrimerInitialConcentrationUnits>##IDetector.PICOMOLES</ForwardPrimerInitialConcentrationUnits>
+         <ReversePrimerFinalQuantity>900.0</ReversePrimerFinalQuantity>
+         <ReversePrimerInitialConcentration>20.0</ReversePrimerInitialConcentration>
+         <ReversePrimerInitialConcentrationUnits>##IDetector.PICOMOLES</ReversePrimerInitialConcentrationUnits>
+      </Detector>
+      <Detector>
+         <Name>phi6 H3 segment S</Name>
+         <Reporter>FAM</Reporter>
+         <Quencher>None</Quencher>
+         <Color>-7461718</Color>
+         <ProbePrimerMixFactor>20.0</ProbePrimerMixFactor>
+         <UMMFactor>2.0</UMMFactor>
+         <ReverseMixFactor>125.0</ReverseMixFactor>
+         <TaqmanProbeInitialConcentration>20.0</TaqmanProbeInitialConcentration>
+         <TaqmanProbeFinalQuantity>900.0</TaqmanProbeFinalQuantity>
+         <TaqmanProbeInitialConcentrationUnits>##IDetector.PICOMOLES</TaqmanProbeInitialConcentrationUnits>
+         <ForwardPrimerFinalQuantity>900.0</ForwardPrimerFinalQuantity>
+         <ForwardPrimerInitialConcentration>20.0</ForwardPrimerInitialConcentration>
+         <ForwardPrimerInitialConcentrationUnits>##IDetector.PICOMOLES</ForwardPrimerInitialConcentrationUnits>
+         <ReversePrimerFinalQuantity>900.0</ReversePrimerFinalQuantity>
+         <ReversePrimerInitialConcentration>20.0</ReversePrimerInitialConcentration>
+         <ReversePrimerInitialConcentrationUnits>##IDetector.PICOMOLES</ReversePrimerInitialConcentrationUnits>
+      </Detector>
+   </Detectors>
+   <CocktailWastePercentage>10</CocktailWastePercentage>
+   <ChemistryType>TAQMAN</ChemistryType>
+   <UMMFactor>2.0</UMMFactor>
+   <CommonSampleConcentration>50.0</CommonSampleConcentration>
+   <CommonSampleConcentrationUnits>ng/μL</CommonSampleConcentrationUnits>
+   <TCProtocolMode>Fast</TCProtocolMode>
+   <DNATemplateType>WET_DNA</DNATemplateType>
+   <InstrumentTypeId>appletini</InstrumentTypeId>
+   <BlockTypeID>19</BlockTypeID>
+   <PlateTypeID>TYPE_8X12</PlateTypeID>
+   <ExperimentProperty type="ExperimentAmpPlotDataSource.DELTA_RN_VS_CYCLE_PLOT">
+      <PropertyValue key="YColorBlue">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="XFontName">
+         <String>Tahoma</String>
+      </PropertyValue>
+      <PropertyValue key="isYMinorTickLinesEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isLog">
+         <Boolean>false</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isXEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="YFontName">
+         <String>Tahoma</String>
+      </PropertyValue>
+      <PropertyValue key="titleColorAlpha">
+         <Integer>255</Integer>
+      </PropertyValue>
+      <PropertyValue key="isYShowMinorTickLines">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="XColorAlpha">
+         <Integer>255</Integer>
+      </PropertyValue>
+      <PropertyValue key="titleColorGreen">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="YFontSize">
+         <Integer>11</Integer>
+      </PropertyValue>
+      <PropertyValue key="YColorGreen">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="titleFontSize">
+         <Integer>18</Integer>
+      </PropertyValue>
+      <PropertyValue key="isXShowMinorTicks">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="title">
+         <String>Amplification Plot</String>
+      </PropertyValue>
+      <PropertyValue key="titleFontName">
+         <String>Tahoma Bold</String>
+      </PropertyValue>
+      <PropertyValue key="isYMinorTicksEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="YColorRed">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="XColorGreen">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="XFontStyle">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="titleFontStyle">
+         <Integer>1</Integer>
+      </PropertyValue>
+      <PropertyValue key="XFontSize">
+         <Integer>11</Integer>
+      </PropertyValue>
+      <PropertyValue key="isXMinorTicksEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="XMax_1">
+         <String>1.7976931348623157E308</String>
+      </PropertyValue>
+      <PropertyValue key="isXMinorTickLinesEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isYRangeEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isXShowTickMarks">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isXAutoAdjust">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="titleColorRed">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="YFontStyle">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="isYEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="XColorRed">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="YMax_1">
+         <String>1.7976931348623157E308</String>
+      </PropertyValue>
+      <PropertyValue key="XMin_1">
+         <String>4.9E-324</String>
+      </PropertyValue>
+      <PropertyValue key="isYShowTickLabels">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="YColorAlpha">
+         <Integer>255</Integer>
+      </PropertyValue>
+      <PropertyValue key="isShowTitle">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isYShowMinorTicks">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isYAutoAdjust">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="Ylabel">
+         <String>ΔRn</String>
+      </PropertyValue>
+      <PropertyValue key="XColorBlue">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="isXRangeEnabled">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="Xlabel">
+         <String>Cycle</String>
+      </PropertyValue>
+      <PropertyValue key="YMin_1">
+         <String>1.0E-6</String>
+      </PropertyValue>
+      <PropertyValue key="titleColorBlue">
+         <Integer>0</Integer>
+      </PropertyValue>
+      <PropertyValue key="isXShowMinorTickLines">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+      <PropertyValue key="isXShowTickLabels">
+         <Boolean>true</Boolean>
+      </PropertyValue>
+   </ExperimentProperty>
+   <ExperimentProperty type="InstrumentTypeInfo">
+      <PropertyValue key="INSTRUMENT_TYPE_KEY">
+         <String>APPLETINI_96WELL_AFFORD_200UL</String>
+      </PropertyValue>
+   </ExperimentProperty>
+   <Controls/>
+   <Reagents/>
+</Experiment>
