@@ -1,0 +1,65 @@
+LOCUS       Exported                2542 bp ds-DNA     circular SYN 15-MAY-2020
+DEFINITION  partial sequence.
+ACCESSION   .
+VERSION     .
+KEYWORDS    .
+SOURCE      synthetic DNA construct
+  ORGANISM  synthetic DNA construct
+REFERENCE   1  (bases 1 to 2542)
+  AUTHORS   .
+  TITLE     Direct Submission
+  JOURNAL   Exported Friday, May 15, 2020 from SnapGene 4.3.10
+            https://www.snapgene.com
+FEATURES             Location/Qualifiers
+     source          1..2542
+                     /organism="synthetic DNA construct"
+                     /mol_type="other DNA"
+     primer_bind     257..273
+                     /label=Primer 1
+     primer_bind     complement(334..356)
+                     /label=Primer 2
+ORIGIN
+        1 caaccgagta ggttcgttgc cttaattggt gacgcttgca ggatgaggat ggtcccgacg
+       61 cctaacggac cttgctgcct tctttccctg gattggcggt gttgttccca ctaataataa
+      121 aggaatacgc acatgttgct gcctgtagta gcccgtgcgg ccgtccctgc tattgagagt
+      181 gccattgcgg ctactcctag cctggtttcc cgaatcgcag ccgcgatcgg ttccaaggcc
+      241 agcccttccg ccattttggc ggcggtcaag agcaacccgg tcgtcgcagg tctgacactc
+      301 gctcagatcg gaagcaccgg ttatgacgcc tatcagcagc ttctggagaa tcatccagag
+      361 gtcgccgaga tgctgaaaga cctgtctttc aaagccgacg aaatccagcc ggatttcatc
+      421 ggtaacctcg gtcagtaccg cgaagagctg gaactggtcg aagatgctgc ccgcttcatg
+      481 ggcggcatgt cgaacctgat tcgcctgcgc caggccctgg aacttgatat caagtactac
+      541 ggcctgaaaa tgcagctgaa tgacatggga taccgctcgt aatggttatc ggtctcctga
+      601 agtatctcac gcctgccgtt aaggtgcaga tggctgctcg cgcgttgggc ctgtcccccg
+      661 ccgaagtcgc tgcaattgac agcacgttgg gtcgtgtctc tgcgatgcca gcggtcgcgg
+      721 tcgtgctggg agggaaacct ctctctctgg ccacgatcgc atcagttgtg tctgatgcaa
+      781 accccagtgc cactgttggc gcgcttatgc ctgctgtaca gggcatggtg agttccgacg
+      841 aaggcgcgag tgcgttggct aagaccgtgg taggcttcat ggagtccgac cccaacagcg
+      901 atgtcctggt tcaactgctc cacaaggtgt caaacttgcc gattgtcggc tttggtgaca
+      961 cgcagtatgc agacccagct gacttcttgg ccaagggagt tttccctctg atcaggaagc
+     1021 cagaagtaga ggttcaagct gcgcctttca cctgtcgtca gtgtgatcat gttgatcaca
+     1081 tcactgatgt acctcaaact tcgacctttg ttcacaaatg cacttcgtgc ggctttgtgc
+     1141 agatggtcca ccgtaaggat gttccgtaat gccatttcct ctggtaaagc aagacccaac
+     1201 ctcgaaggct ttcactgaag ccagtgaacg ctccaccggc acccagatcc tggacgtcgt
+     1261 caaggcccct atcggcctgt tcggcgacga tgccaaacac gagttcgtga cccgtcagga
+     1321 acaagccgtc tccgtcgtca gctgggcagt tgctgccggt ctgatcggcg agctgatcgg
+     1381 ctaccgtggt gcgcgttcgg gtcgcaaagc gatcctggcc aacatccctt tcctggccta
+     1441 actcctcgtg tccaaggata gcgccttcgc ggtgcaatac tcgctgcgcg ccctgggaca
+     1501 aaaggtgcgg gcagacgggg tagtgggctc tgagacccgt gcggcgctgg atgcgctgcc
+     1561 cgagaatcag aagaaagcga ttgtagagtt gcaagcactc ctaccgaaag cacagtcggt
+     1621 cggcaacagc cgtgtgaggt tcacaacagc tgaagtcgac tcggcggtgg cgcggatctc
+     1681 gcaagagata ggtgttccgg cttcttacta ccagttcctg attccgatcg agaacttcgt
+     1741 ggtggccggt ggtttcgaaa ccaccgtttc tggttccttc cgtgggttgg gccagttcaa
+     1801 ccggcagacg tgggatggac tccgtcgttt aggccgtaac cttcctgcat ttgaggaggg
+     1861 ttcggcacaa ctgaacgctt ctctttatgc aatcgggttc ttgtatcttg agaacaagag
+     1921 agcgtacgag gcgtcgttca aaggccgcgt tttcactcac gaaatcgcgt atttgtatca
+     1981 caaccaaggc gctccagctg ccgaacagta cctgacttcg ggtcggctcg tttaccctaa
+     2041 gcaaagcgag gccgctgtcg cggcggttgc ggctgcgaga aaccagcatg tcaaagagag
+     2101 ttgggcttaa ccctgaactg catcgtgaac tgaaaatgtt cccagatgtc acgaagggtg
+     2161 gcacgttcga cataaccatc cggtcgacta ccgagaacgg tgctttttgg gcgaactacg
+     2221 aaggtagaac gtccttggtc accgtcccgg acgtgaagac agctatcgag tttttgatta
+     2281 aactctgccg tcgacacaag ttgtccaatc aggtgaacac gcgaacgctt ctccgcgatt
+     2341 tgcaacgaac gttgcaggaa tgtgaatgcc agtctcatca tgtgccgttg tccagcccct
+     2401 tcatgcatct cagatttgcg taaagctgat cggaagctat gaaagtaagc tgagcgacac
+     2461 ggaagttatt gaagcagcta ttcaagctct cataggcttg gaaagcccgg catcgatgtc
+     2521 gttccatgtc gcgccagacg cg
+//
